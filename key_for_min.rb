@@ -3,7 +3,7 @@
 
 def key_for_min_value(name_hash)
   smallest = 0
-  i = 0 
-  while i < key_for_min_value.length 
-    if 
+  name_hash.each do | keys, values |
+    key
+  end
 end
